@@ -1,0 +1,6 @@
+framework module WifiAuth {
+  umbrella header "WifiAuth-umbrella.h"
+
+  export *
+  module * { export * }
+}

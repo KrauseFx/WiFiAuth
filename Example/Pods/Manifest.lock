@@ -1,0 +1,16 @@
+PODS:
+  - WifiAuth (0.1.0)
+
+DEPENDENCIES:
+  - WifiAuth (from `../`)
+
+EXTERNAL SOURCES:
+  WifiAuth:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WifiAuth: 1aa069f0bfd12e3aa31708172af61d4f7a14e5df
+
+PODFILE CHECKSUM: 79ebc3d0879abb290dfa6cc46a68c75a72de9443
+
+COCOAPODS: 1.5.3

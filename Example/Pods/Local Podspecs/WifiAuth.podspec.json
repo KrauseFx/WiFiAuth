@@ -1,0 +1,22 @@
+{
+  "name": "WifiAuth",
+  "version": "0.1.0",
+  "summary": "A short description of WifiAuth.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/krausefx@gmail.com/WifiAuth",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "krausefx@gmail.com": "krausefx@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/krausefx@gmail.com/WifiAuth.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WifiAuth/Classes/**/*"
+}

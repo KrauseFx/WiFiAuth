@@ -7,6 +7,7 @@
 //
 
 #import "WFAViewController.h"
+#import <WifiAuth/WifiAuth.h>
 
 @interface WFAViewController ()
 
@@ -17,13 +18,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
-}
-
-- (void)didReceiveMemoryWarning
-{
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+	
+    [[WifiAuth sharedWifiAuth] startMonitoring];
 }
 
 @end

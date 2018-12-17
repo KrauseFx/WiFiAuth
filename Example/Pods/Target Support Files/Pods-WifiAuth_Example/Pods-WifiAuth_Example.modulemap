@@ -1,0 +1,6 @@
+framework module Pods_WifiAuth_Example {
+  umbrella header "Pods-WifiAuth_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
