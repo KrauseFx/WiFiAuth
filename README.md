@@ -1,5 +1,7 @@
 # WiFiAuth
 
+<img src="screenshot.png" width="300" />
+
 > Because connecting to WiFI networks is still an unsolved problem
 
 Checking if a WiFi network needs the user to login on some kind of login page is the responsibility of the operating system. However iOS is still having a hard time detecting most WiFis, resulting in apps to not work. Unless you know you have to open Safari and access a non-SSL encrypted website like http://neverssl.com, the user is confused, and doesn't know why your app is "broken".
