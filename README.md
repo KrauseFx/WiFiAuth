@@ -1,6 +1,6 @@
 # WiFiAuth
 
-<img src="screenshot.png" width="300" />
+<img src="screenshot.png" width="320" align="right" />
 
 > Because connecting to WiFI networks is still an unsolved problem
 
