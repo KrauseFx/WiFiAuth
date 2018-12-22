@@ -14,6 +14,8 @@ However I do believe it might be worth finishing that SDK and make it production
 
 Turns out, WiFi auth flows are very complicated. However from an app's perspective, sending an unencrypted GET request, and checking if there is a redirect to a login page should be enough to see if your app has access to the internet.
 
+**Update:** Turns out, [Ross Butler](https://github.com/rwbutler/) already built this with [Connectivity](https://github.com/rwbutler/Connectivity)
+
 <a href="https://developer.apple.com/library/archive/documentation/NetworkingInternet/Conceptual/Hotspot_Network_Subsystem_Guide/Contents/AuthStateMachine.html#//apple_ref/doc/uid/TP40016639-CH2-SW1">
   <img src="https://developer.apple.com/library/archive/documentation/NetworkingInternet/Conceptual/Hotspot_Network_Subsystem_Guide/Art/HotspotHelper1_2x.png" />
 </a>
